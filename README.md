@@ -46,13 +46,14 @@
 
 ## Introduction
 **Concata** is a general-purpose stack-based concatenative functional
-programming language written in Nim. It takes inspiration from languages like
+programming language written in
+[Nim](https://en.wikipedia.org/wiki/Elixir_(programming_language)).
+It takes inspiration from languages like
 [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)),
 [Joy](https://en.wikipedia.org/wiki/Joy_(programming_language))
 and
 [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)),
-but also
-[Nim](https://en.wikipedia.org/wiki/Elixir_(programming_language)).
+but also Nim.
 
 ## Examples
 You can see example Concata programs in the [examples folder](examples)
