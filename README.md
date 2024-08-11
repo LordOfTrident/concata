@@ -42,7 +42,7 @@
 </details>
 
 ## Introduction
-**Concata** is a ***work-in-progress** general-purpose stack-based concatenative functional
+**Concata** is a **work-in-progress** general-purpose stack-based concatenative functional
 programming language written in Nim. It takes inspiration from languages like
 [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)),
 [Joy](https://en.wikipedia.org/wiki/Joy_(programming_language))
