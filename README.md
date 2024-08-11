@@ -71,6 +71,8 @@ If you find any bugs, please,
 <br>
 
 <div align="center">
+	<div align="center"><img src="./res/banner.png" width="75%"></div>
+	<br>
 	<p align="center">Made with ❤️ love</p>
 </div>
 
