@@ -32,7 +32,7 @@ with
 [dynamic typing](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)
 and in that aspect comparable to scripting languages like Lua or Javascript, but also provides an
 optional compile-time *typechecker*. Programs are composed of *modules* which get imported during
-compilation.
+compilation. Concata source files use the `.conc` extension.
 
 The syntax and design of Concata takes inspiration from languages like
 [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)),
