@@ -1,0 +1,6 @@
+uses std/io std/range
+
+fun ! n[Uint] => range.Product[1 n ... 1 //]
+
+1 10 ... for n =>
+	io.PrintF["%v! = %v\n"[n n !]]

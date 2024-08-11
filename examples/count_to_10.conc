@@ -1,0 +1,4 @@
+uses std/io
+
+1 10 ... for n =>
+	io.PrintLn[n]

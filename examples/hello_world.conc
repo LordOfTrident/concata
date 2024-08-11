@@ -1,0 +1,3 @@
+uses std/io
+
+io.PrintLn["Hello, world!"]
