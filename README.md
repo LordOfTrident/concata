@@ -58,6 +58,12 @@ but also Nim.
 ## Examples
 You can see example Concata programs in the [examples folder](examples)
 
+```
+uses std/io
+
+io.PrintLn["Hello, world!"]
+```
+
 ## Specification
 Concata has a
 [work-in-progress specification](SPEC.md)
