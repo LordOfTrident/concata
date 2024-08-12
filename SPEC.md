@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/LordOfTrident/concata/main/res/banner.png)
+
 # Concata Programming Language Specification
 **Table of contents**
 - [Introduction](#introduction)
