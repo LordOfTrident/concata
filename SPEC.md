@@ -1,4 +1,5 @@
-# Table of contents
+# Concata Programming Language Specification
+**Table of contents**
 - [Introduction](#introduction)
 - [Lexical Structure](#lexical-structure)
   - [Characters](#characters)
