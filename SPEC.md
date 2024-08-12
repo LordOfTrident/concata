@@ -141,7 +141,7 @@ like regular words. See their list below:
 | `::`       | `with`     | `defer`    | `typegroup` | `when` |
 | `end`      | `compfail` | `compwarn` | `depr`      | `uses` |
 | `requires` | `=>`       | `true`     | `false`     | `nil`  |
-| `inf`      | `-inf`     | `nan`      |             |        |
+| `inf`      | `-inf`     | `nan`      | `extract`   |        |
 
 ### Literals
 Literals are constants representing a value of a certain type. Two exceptions are
