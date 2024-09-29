@@ -13,7 +13,7 @@
 		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/concata?style=for-the-badge&color=0fae5e">
 	</a>
 	<a href="https://github.com/LordOfTrident/concata/pulls">
-		<img alt="Pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/concata?style=for-the-badge&color=4f79e4">
+		<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/concata?style=for-the-badge&color=4f79e4">
 	</a>
 	<br><br><br>
 	<img src="./res/logo.png" width="150px">
@@ -21,7 +21,7 @@
 	<p align="center">A stack-based concatenative functional programming language</p>
 	<p align="center">
 		<a href="examples">Examples</a>
-		.
+		·
 		<a href="SPEC.md">Specification</a>
 		·
 		<a href="https://github.com/LordOfTrident/concata/issues">Report Bug</a>
@@ -32,7 +32,7 @@
 </div>
 
 <details>
-	<summary>Table of contents</summary>
+	<summary>📑 Table of Contents</summary>
 	<ul>
 		<li><a href="#introduction">Introduction</a></li>
 		<li><a href="#examples">Examples</a></li>
@@ -41,37 +41,27 @@
 	</ul>
 </details>
 
-> [!WARNING]
-> This language is a **work-in-progress** and anything might change at any moment.
+> ⚠️ **Warning:**  
+> This language is a **work-in-progress**, and its features are subject to change without notice.
 
 ## Introduction
-**Concata** is a general-purpose stack-based concatenative functional
-programming language written in
-[Nim](https://en.wikipedia.org/wiki/Elixir_(programming_language)).
-It takes inspiration from languages like
-[Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)),
-[Joy](https://en.wikipedia.org/wiki/Joy_(programming_language))
-and
-[Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)),
-but also Nim.
+**Concata** is a general-purpose stack-based concatenative functional programming language, developed in [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language)).  
+It draws inspiration from languages such as [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)), [Joy](https://en.wikipedia.org/wiki/Joy_(programming_language)), and [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)), while also incorporating elements from Nim itself.
 
 ## Examples
-You can see example Concata programs in the [examples folder](examples)
+Explore various example Concata programs in the [examples folder](examples).
 
-```
+```nim
 uses std/io
 
 io.PrintLn["Hello, world!"]
 ```
 
 ## Specification
-Concata has a
-[work-in-progress specification](SPEC.md)
-that you can read in it's current state.
+The language's evolving [specification](SPEC.md) is available and can be reviewed in its current form.
 
 ## Bugs
-If you find any bugs, please,
-[create an issue and report them](https://github.com/LordOfTrident/concata/issues).
+If you encounter any issues, please help us improve by [submitting a bug report](https://github.com/LordOfTrident/concata/issues).
 
 <br>
 <h1></h1>
@@ -80,7 +70,7 @@ If you find any bugs, please,
 <div align="center">
 	<div align="center"><img src="./res/banner.png" width="75%"></div>
 	<br>
-	<p align="center">Made with ❤️ love</p>
+	<p align="center">Made with ❤️ and passion</p>
 </div>
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
