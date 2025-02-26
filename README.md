@@ -21,7 +21,7 @@
 	<p align="center">A stack-based concatenative functional programming language</p>
 	<p align="center">
 		<a href="examples">Examples</a>
-		.
+		·
 		<a href="SPEC.md">Specification</a>
 		·
 		<a href="https://github.com/LordOfTrident/concata/issues">Report Bug</a>
